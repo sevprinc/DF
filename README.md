@@ -1,6 +1,6 @@
-#Individualized Deepfake Detection Exploiting Traces Due to Double Neural-Network Operations
+# Individualized Deepfake Detection Exploiting Traces Due to Double Neural-Network Operations
 
-This repository is currently under maintenance, if you are experiencing any problems, please open an issue.
+This repository is currently under maintenance, if you are experiencing any problems, please open an [issue](https://github.com/sevprinc/DF/issues).
 
 ## Overview
 This project applies the method of double operations for deepfake detection.
