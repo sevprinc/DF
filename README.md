@@ -12,6 +12,6 @@ Before running the experiments, the videos should be downloaded.
 # Usage
 To save computational time, the file [prepare features.ipynb](https://github.com/sevprinc/DF/blob/main/notebook/prepare%20features.ipynb) is first used to extract features from the videos before and after reconstruction using a pretrained neural network. 
 The extracted features will be used to train the Siamese neural network for deepfake detection.
-Then, the file [Double operation (Siamese NN).ipynb](https://github.com/sevprinc/DF/blob/main/notebook/Double%20operation%20(Siamese%20NN).ipynb) can be used to customize a Siamese neural network to detect deepfake videos of each public figure using the proposed double-operation method.
+Then, the file [Double operation (Siamese NN).ipynb](https://github.com/sevprinc/DF/blob/main/notebook/Double%20operation%20(Siamese%20NN).ipynb) will be used to customize a Siamese neural network to detect deepfake videos for each public figure using the proposed double-operation method.
 
 
