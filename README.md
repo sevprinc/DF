@@ -1,5 +1,5 @@
 # Overview
-This project applies the method of double operations for deepfake detection.
+This project applies the method of double operations for deepfake detection. This project reuses pre-trained models and codes from [icpr2020dfdc](https://github.com/polimi-ispl/icpr2020dfdc).
 
 # Dataset
 The dataset can be found at https://drive.google.com/drive/u/1/folders/1QhAOZRXO0_PN-DkKbUCkzjM6WfXLaE_m
