@@ -8,6 +8,6 @@ The reconstructed videos of the raw and deepfake videos can abe found in the fol
 Before running the experiments, the videos should be downloaded.
 
 # Usage
-The [a link](https://github.com/user/repo/blob/branch/other_file.md)
+To save computational time, the [prepare features file](https://github.com/sevprinc/DF/blob/main/notebook/prepare%20features.ipynb) is first used to extract features from the frames using a pretrained neural network.
 
 
